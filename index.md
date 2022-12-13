@@ -4,7 +4,7 @@ This is my homepage! My name is Erica Labo and I am a student at [Cal State Full
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/EricaRianne
+My GitHub page is http://github.com/EricaRianne
 
 ### CPSC 120
 
