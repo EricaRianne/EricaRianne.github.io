@@ -1,6 +1,6 @@
 # Hello World!
 
-This is my homepage! My name is Erica Labo and I am a student at Cal State Fullerton(http://www.fullerton.edu/) and my major is Kinesiology.
+This is my homepage! My name is Erica Labo and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Kinesiology.
 
 ## Computer Science Projects
 
