@@ -14,7 +14,7 @@ My GitHub page is [http://github.com/EricaRianne](http://github.com/EricaRianne)
 
 * Lab 6
 
-    Lab 6, part 2 was another favorite of mine because of the idea of creating guessing game that knew it had an answer. It surprised me that I could code something that was able to loop something and be able to be used for a game that is relatively simple. Making an infinite loop was interesting because in the lab, the only way to exit that loop was to leave the game. Meaning it could've gone on forever and ever. The only other way to stop the loop was for the player to win the game, it's amazing to me what can be done with coding. Also, it is clear to me, because of this lab, that coding can be utilized for many things.
+    Lab 6, part 2 was another favorite of mine because of the idea of creating guessing game is amazing and something that I've always wanted to do. It surprised me that I could code something that was able to loop something and be able to be used for a game that is relatively simple. Making an infinite loop was interesting because in the lab, the only way to exit that loop was to leave the game. Meaning it could've gone on forever and ever. The only other way to stop the loop was for the player to win the game, it's amazing to me what can be done with coding. Also, it is clear to me, because of this lab, that coding can be utilized for many things.
 
 * Lab 2
 
